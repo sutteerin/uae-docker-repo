@@ -1,0 +1,4 @@
+doker_deploy_nginx/
+.env
+app-deployment.yaml
+pod-demo-linux.yaml
